@@ -1,0 +1,14 @@
+node_modules/
+.env
+.expo/
+dist/
+*.log
+.DS_Store
+backend/data/store.json
+powershell.bat
+
+.env*.local
+.env*.local
+
+
+*.apk
